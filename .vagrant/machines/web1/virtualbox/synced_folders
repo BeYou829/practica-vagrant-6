@@ -1,1 +1,0 @@
-{"virtualbox":{"/var/www/html":{"guestpath":"/var/www/html","hostpath":"C:/Users/engel/Desktop/DevOps/practica-vagrant-6/html","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"C:/Users/engel/Desktop/DevOps/practica-vagrant-6","disabled":false,"__vagrantfile":true}}}
